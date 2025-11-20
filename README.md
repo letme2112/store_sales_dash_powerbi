@@ -33,9 +33,13 @@
 
 ## Структура проекта
 store_sales_dash_powerbi/
+
 ├── store_sales_dashboard.pbix # Файл Power BI
+
 ├── store_sales.csv # Исходные данные
+
 ├── dashboard.png # Скриншот дашборда
+
 └── README.md # Описание проекта
 
 ## Основные выводы
@@ -55,3 +59,4 @@ store_sales_dash_powerbi/
 2. Откройте в Power BI
 
 3. Изучите визуализации и метрики
+
